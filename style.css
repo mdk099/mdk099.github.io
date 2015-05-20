@@ -2,6 +2,10 @@
 body{
 background-color: #a3f7c8
 }
+
+h1.homeheader{
+text-align: center;
+}
 nav ul
 {
 padding-left: 0;
