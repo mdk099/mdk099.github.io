@@ -1,5 +1,7 @@
 
-
+body{
+background-color: #a3f7c8
+}
 nav ul
 {
 padding-left: 0;
@@ -17,7 +19,7 @@ text-decoration: none;
 
 nav ul li {
 padding: 0.2em 1em;
-background-color: #036;
+background-color: #ff4716;
 color: white;
 text-decoration: none;
 float: left;
@@ -26,7 +28,7 @@ display: inline;
 }
 
 nav ul li a:hover{
-background-color: #369;
+background-color: #f58362;
 color: #fff
 }
 nav a:link{
