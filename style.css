@@ -3,7 +3,10 @@ body{
 background-color: #a3f7c8
 }
 
-h1.homeheader{
+h2{
+text-align: center;
+}
+h1{
 text-align: center;
 }
 nav ul
