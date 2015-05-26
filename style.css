@@ -1,14 +1,6 @@
 
-body{
-background-color: #a3f7c8
-}
 
-h2{
-text-align: center;
-}
-h1{
-text-align: center;
-}
+
 nav ul
 {
 padding-left: 0;
@@ -18,6 +10,7 @@ color: white;
 float: left;
 width: 100%;
 font-family: arial, helvetica, sans-serif;
+position: fixed;
 }
 
 nav ul li a {
@@ -36,7 +29,7 @@ display: inline;
 
 nav ul li a:hover{
 background-color: #f58362;
-color: #fff
+color: #fff;
 }
 nav a:link{
 color: white;
