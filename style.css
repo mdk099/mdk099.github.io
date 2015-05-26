@@ -1,6 +1,12 @@
-
-
-
+body{
+background-color: #2FC2C2;
+}
+picture1{
+text-align: center;
+}
+homeheader{
+text-align: center;
+}
 nav ul
 {
 padding-left: 0;
